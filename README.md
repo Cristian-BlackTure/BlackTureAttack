@@ -1,4 +1,5 @@
 # BlackTure Attack Systems!
 
-* Uses D.OS API To Launch!
-* Linux only lmfao
+* Uses DOS Manufacturing System To Keep it ALIVE
+* Please do not steal from us (normal use only)
+* Beta (Lambda Test Stage)
